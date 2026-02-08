@@ -30,7 +30,7 @@ Detail-oriented **Python Full-Stack Developer** with 4+ years of hands-on experi
 | **Languages** | Python, JavaScript |
 | **Backend** | Django, Django REST Framework, ORM |
 | **Frontend** | React, React Native, HTML, CSS |
-| **Data & AI** | Pandas, NumPy, NLP, Machine Learning, Data Analysis |
+| **Data & AI** | Pandas, NumPy, NLP, Machine Learning, POWER BI |
 | **Database** | PostgreSQL |
 | **DevOps & Tools** | Git, Docker, Kubernetes, Render |
 
@@ -71,6 +71,6 @@ A scalable e-commerce application with a strong focus on usability and backend e
 
 ## 📌 My Growth Philosophy
 
-> *“Clean code, continuous learning, and real-world problem solving are the foundation of sustainable software development.”*
+> *“DRY (Don't Repeat Yourself) is the ultimate "work smarter, not harder" rule for coding. It means every piece of logic should live in exactly one place”*
 
 ---
