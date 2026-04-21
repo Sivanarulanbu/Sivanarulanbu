@@ -63,7 +63,7 @@ A scalable e-commerce application with a strong focus on usability and backend e
 ## 🤝 Let’s Connect
 
 - **LinkedIn:** [Sivanarul Anbu](https://www.linkedin.com/in/sivanarul-a-874b701b9/)
-- **Portfolio:** [Netlify Projects](https://app.netlify.com/teams/sivanarulanbu/projects)
+- **Portfolio:** [Netlify Projects](https://portfolio-kappa-ten-c89numy4hr.vercel.app/)
 - **GitHub:** [github.com/Sivanarulanbu](https://github.com/Sivanarulanbu)
 - **Email:** krishnananbu99@gmail.com
 
